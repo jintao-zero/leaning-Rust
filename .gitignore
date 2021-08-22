@@ -12,3 +12,7 @@ Cargo.lock
 rust-by-example/formatted-print/overview/.idea/
 rust-by-example/formatted-print/overview/target/
 
+rust-by-example/formatted-print/debug/.idea/
+rust-by-example/formatted-print/debug/target/
+
+
